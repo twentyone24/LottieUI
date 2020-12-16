@@ -1,3 +1,3 @@
 # LottieUI
 
-A description of this package.
+A swift package to make UI more clean & intuitive with less code.
